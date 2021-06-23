@@ -27,7 +27,7 @@ end
 newButton.OnClick:Connect(onClick)
 ```
 
-![Style_Example](https://user-images.githubusercontent.com/33396883/123145725-82ee2d80-d433-11eb-8756-72d07aedb783.mp4)
+[Style_Example](https://user-images.githubusercontent.com/33396883/123145725-82ee2d80-d433-11eb-8756-72d07aedb783.mp4)
 
 ### Templates
 O _Pibu_ possui uma pasta chamada `Templates`, ela é utilizada para armazenar templates de botões, como um Slider ou um Toggle.
@@ -46,4 +46,4 @@ end
 newButton.OnToggle:Connect(onToggle)
 ```
 
-![Template_Example](https://user-images.githubusercontent.com/33396883/123145756-897ca500-d433-11eb-9864-5ff8def38608.mp4)
+[Template_Example](https://user-images.githubusercontent.com/33396883/123145756-897ca500-d433-11eb-9864-5ff8def38608.mp4)
